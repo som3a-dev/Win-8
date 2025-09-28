@@ -6,7 +6,7 @@ A CHIP-8 Emulator written entirely in C++ with WIN32 API and DirectSound. No dep
 
 Only supports the original COSMAC CHIP-8 as of now.
 
-# Early Screenshots
+# Screenshots
 
 Pong
 ![screenshot](screenshots/1.png)
