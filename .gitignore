@@ -1,0 +1,6 @@
+*.vsidx
+/.vs
+/c8games
+/CHIP-8 Emulator/x64
+*.ch8
+/x64
